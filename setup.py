@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cranberry',
-    packages=find_packages(include=['include']),
+    packages=find_packages(where=['src']),
     version='0.1.0',
     description='The Cranberry Deep Learning library',
     author='Oskar Niemenoja',

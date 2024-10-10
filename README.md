@@ -2,7 +2,7 @@
 
 ![logo](/utils/img/cranberry.png)
 
-Cranberry is a versatile sandbox and framework for developing, learning, and evaluating machine learning (ML) features and algorithms, as well as for replicating research. It is built with a focus on easy modifiability, clean architecture, and a structured design, making the development of new functionalities straightforward.
+Cranberry is a versatile sandbox and framework for developing, learning, and evaluating ML and AI features and algorithms, as well as for replicating research. It is built with a focus on easy modifiability, clean architecture, and a structured design, making the development of new functionalities straightforward.
 
 Table of Contents
 1.    Introduction
